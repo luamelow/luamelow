@@ -5,4 +5,4 @@ Meu nome é Luana
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![](https://media1.tenor.com/m/Y1C23CK383YAAAAC/frank-ocean.gif)
+![](https://media1.tenor.com/m/uEj9NSXtEfMAAAAC/frank-ocean-tyler-the-creator.gif)
